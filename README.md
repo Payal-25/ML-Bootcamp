@@ -20,7 +20,7 @@ We welcome contributions from everyone! If you want to contribute to the project
 
 If you have any doubts or need help with the project, check out the following resources:
 
--[[YouTube Week1-Day1](https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_%282017%29.svg)]https://youtu.be/AiBwKS5yNC4) - This playlist covers [Week1-Day1 session recording].
+-[[YouTube Week1-Day1](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
    
 
 
