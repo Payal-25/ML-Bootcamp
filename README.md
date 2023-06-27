@@ -38,4 +38,17 @@ If you have any doubts or need help, check out the following resources:
 -[[YouTube Week2-Day2](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/YCinXqLPm3o) - It covers [Week2-Day2 session recording].
 
 
+##Submissions 
+blog link for your submissions 
+[Blog: Submission](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/Submission.md) - This blog post provides a detailed explanation for your submissions.]].
+
+
+
+
+
+
+
+
+
+
 
