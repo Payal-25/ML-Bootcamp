@@ -26,16 +26,16 @@ We welcome contributions from everyone! If you want to contribute to the project
 If you have any doubts or need help, check out the following resources:
 
 
--[[!YouTube Week1-Day1](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
+-[![YouTube Week1-Day1](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
 
 
--[[!YouTube Week1-Day2](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/mLZ-FUvnyXw) - It covers [Week1-Day2 session recording].
+-[![YouTube Week1-Day2](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/mLZ-FUvnyXw) - It covers [Week1-Day2 session recording].
 
 
--[[!YouTube Week2-Day1](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/DXfAV91AYA4) - It covers [Week2-Day1 session recording].
+-[![YouTube Week2-Day1](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/DXfAV91AYA4) - It covers [Week2-Day1 session recording].
 
 
--[[!YouTube Week2-Day2](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/YCinXqLPm3o) - It covers [Week2-Day2 session recording].
+-[![YouTube Week2-Day2](https://www.freepik.com/vectors/youtube-logo-png)]https://youtu.be/YCinXqLPm3o) - It covers [Week2-Day2 session recording].
 
 
 
