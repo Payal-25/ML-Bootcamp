@@ -39,7 +39,11 @@ If you have any doubts or need help, check out the following resources:
 
 
 ##Submissions 
-blog link for your submissions 
+
+
+Blog link for your submissions 
+
+
 [Blog: Submission](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/Submission.md) - This blog post provides a detailed explanation for your submissions.]].
 
 
