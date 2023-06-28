@@ -30,7 +30,7 @@ We welcome contributions from everyone! If you want to contribute to the project
 If you have any doubts or need help, check out the following resources:
 
 -[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/AiBwKS5yNC4)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
 
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  -[[YouTube Week1-Day2](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/mLZ-FUvnyXw) - It covers [Week1-Day2 session recording].
