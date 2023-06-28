@@ -29,6 +29,10 @@ If you have any doubts or need help, check out the following resources:
 -[[YouTube Week1-Day1](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
 
 
+-[![YouTube Week1-Day1](https://www.freepnglogos.com/pics/youtube-logo-png)](https://youtu.be/AiBwKS5yNC4)
+
+
+
 -[[YouTube Week1-Day2](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/mLZ-FUvnyXw) - It covers [Week1-Day2 session recording].
 
 
