@@ -46,7 +46,7 @@ If you have any doubts or need help, check out the following resources:
 
 How will you do your submissions according to day wise
 
-#Pre-requisites: You must have to fork the repository in order to submit your assignments
+#Pre-requisites: You must have to fork the repository first in order to submit your assignments
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -54,9 +54,9 @@ How will you do your submissions according to day wise
 
 
 
-Feel free to explore these resources to gain a better understanding.
+Feel free to explore these resources to gain a better understanding.☺️
 
-We're here to help and support you throughout your journey.
+We're here to help and support you throughout your journey.☺️
 
 
 Happy coding!
