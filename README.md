@@ -11,7 +11,7 @@ In this era of technology, AI is at the forefront and to understand AI it is nec
 
 ## All your doubts are welcome here
 
-##Description
+## Description
 This repository is all about your doubts and confusions regarding the sessions and submissions
 
 ## Contributing
@@ -28,6 +28,7 @@ We welcome contributions from everyone! If you want to contribute to the project
 ## Resources
 
 If you have any doubts or need help, check out the following resources:
+(Just tap on these icons for the respective session recording)
 
 
 -[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
@@ -42,15 +43,17 @@ If you have any doubts or need help, check out the following resources:
 -[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/YCinXqLPm3o) - It covers [Week2-Day2 session recording].
 
 
-##Submissions 
+## Submissions 
+
 
 How will you do your submissions according to day wise
 
-#Pre-requisites: You must have to fork the repository first in order to submit your assignments
+# Pre-requisites: You must have to fork the repository first in order to submit your assignments
 
 
+Select this icon
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/Submission.md)
+](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/Submission.md) to know more about the submissions.
 
 
 
