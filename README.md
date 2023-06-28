@@ -51,9 +51,9 @@ How will you do your submissions according to day wise
 # Pre-requisites: You must have to fork the repository first in order to submit your assignments
 
 
-Select this icon
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/Submission.md) to know more about the submissions.
+Select this icon 
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+](https://github.com/Atharva-Malode/ML-Bootcamp/blob/master/How-to-Submit-a-Collab-File/Submission.md)   to know more about the submissions.
 
 
 
