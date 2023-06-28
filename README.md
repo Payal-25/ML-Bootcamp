@@ -1,6 +1,6 @@
 # ML-Bootcamp
 
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
 Welcome to the ML-Bootcamp repository!
@@ -31,10 +31,6 @@ If you have any doubts or need help, check out the following resources:
 
 
 -[[YouTube Week1-Day1](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/AiBwKS5yNC4) - It covers [Week1-Day1 session recording].
-
-
--[![YouTube Week1-Day1](https://www.freepnglogos.com/pics/youtube-logo-png)](https://youtu.be/AiBwKS5yNC4)
-
 
 
 -[[YouTube Week1-Day2](https://www.freepnglogos.com/pics/youtube-logo-png)]https://youtu.be/mLZ-FUvnyXw) - It covers [Week1-Day2 session recording].
