@@ -65,6 +65,8 @@ Feel free to explore these resources to gain a better understanding.😊
 Our organising team is here to clear your doubts you can reach us at
 
 
+##### Chaitanya Wankhede -  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-wankhede-7117b6227/)
+
 ##### Atharva Malode -  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
