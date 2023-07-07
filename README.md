@@ -109,6 +109,23 @@ Our organising team is here to clear your doubts you can reach us at
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvita-chanakhekar-b99b75261)
 
+
+##### Aditi Fadnavis-  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aditifadnavis16)
+
+
+##### Ketki Ninawe-  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-ninawe-289746234/)
+
+
+
+
+
+
+
+
 We're here to help and support you throughout your journey.
 
 
