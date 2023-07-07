@@ -61,6 +61,13 @@ Select this icon
 
 Feel free to explore these resources to gain a better understanding.😊
 
+Our organising team is here to clear your doubts you can reach us at
+
+
+Atharva Malode -  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
 We're here to help and support you throughout your journey.
 
 
