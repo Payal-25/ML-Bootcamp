@@ -43,12 +43,12 @@ If you have any doubts or need help, check out the following resources:
 -[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/YCinXqLPm3o) - It covers [Week2-Day2 session recording].
 
 
-## Submissions 
+# Submissions 
 
 
 How will you do your submissions according to day wise
 
-# Pre-requisites: 
+## Pre-requisites: 
 You must have to fork the repository first in order to submit your assignments
 
 
@@ -65,7 +65,7 @@ Feel free to explore these resources to gain a better understanding.😊
 Our organising team is here to clear your doubts you can reach us at
 
 
-# Atharva Malode -  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+## Atharva Malode -  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
