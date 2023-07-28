@@ -63,62 +63,7 @@ Select this icon
 Feel free to explore these resources to gain a better understanding.😊
 
 Our organising team is here to clear your doubts you can reach us at
-
-
-##### Atharva Malode -   
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-malode-074414206)
-
-
-##### Chaitanya Wankhede -
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-wankhede-7117b6227/)
-
-
-##### Aayush Paigwar- 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-paigwar-457946225)
-
-
-##### Tanushree Patre-
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanushree-patre)
-
-
-##### Pawan Bhayde-       
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawanbhayde)
-
-
-##### Pawan Bhayde-       
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawanbhayde)
-
-
-##### Juhi Meshram-      
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhi-meshram-5b352b234)
-
-
-##### Payal Pande-         
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-pande-29109a250)
-
-
-##### Anvita Chanakheker-  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvita-chanakhekar-b99b75261)
-
-
-##### Aditi Fadnavis-  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aditifadnavis16)
-
-
-##### Ketki Ninawe-  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-ninawe-289746234/)
-
+For any querries write in dicussion .
 
 
 
